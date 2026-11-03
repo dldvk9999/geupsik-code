@@ -14,7 +14,7 @@ Claude Code를 급식체 + 간결한 개발 작업 스타일로 쓰게 해주는
 
 ## 설치
 
-GitHub에 이 저장소를 올린 뒤 Claude Code에서:
+Claude Code에서:
 
 ```bash
 /plugin marketplace add dldvk9999/geupsik-code
