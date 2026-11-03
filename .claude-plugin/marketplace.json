@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "geupsik-code",
+  "description": "급식체 기반 Claude Code 개발 스타일 플러그인",
+  "owner": {
+    "name": "Your Name"
+  },
+  "plugins": [
+    {
+      "name": "geupsik-code",
+      "source": "./plugins/geupsik-code",
+      "description": "급식체 기반의 간결한 개발 작업 스타일"
+    }
+  ]
+}

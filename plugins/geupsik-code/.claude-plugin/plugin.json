@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "geupsik-code",
+  "displayName": "급식코드",
+  "version": "1.0.0",
+  "description": "급식체 기반의 간결한 Claude Code 개발 작업 스타일. 불필요한 검증은 줄이고 애매한 사항은 작업을 멈추고 확인합니다.",
+  "author": {
+    "name": "Your Name"
+  },
+  "license": "MIT",
+  "keywords": [
+    "korean",
+    "geupsik",
+    "developer",
+    "style",
+    "coding",
+    "concise"
+  ]
+}
